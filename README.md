@@ -3,9 +3,11 @@
 I’m a motivated and adaptable computer‑science student with international experience and a strong background in software development, problem‑solving and leadership.  I enjoy building scalable, user‑focused applications and I’m particularly experienced with Python, Flask and full‑stack web development.  I’m passionate about leveraging technology to solve real‑world challenges while continuously developing my technical, analytical and communication skills.  
 
 ## 🛠 Tech Stack  
-- **Languages:** Python, Java, C, Shell, HTML/CSS  
-- **Frameworks & Tools:** Flask, full‑stack web development, Git/GitHub  
-- **Interests:** Building user‑friendly web apps, collaborating on group projects, learning new technologies  
+- **Languages:** Python, Java, C, C++, JavaScript, TypeScript, Shell, HTML, CSS  
+- **Frameworks & Tools:** Flask, Bootstrap, SQLAlchemy, jQuery, Git, GitHub, SQLite, VS Code  
+- **Web Development:** Full-stack development (frontend & backend), RESTful APIs, responsive design, WCAG-compliant accessibility  
+- **Other Technologies:** JSON, AJAX, Moment.js, Bootstrap-Datetimepicker, virtual environments (venv)  
+- **Interests:** Building user-friendly and secure web apps, collaborating on group projects, exploring new technologies, and improving software performance  
 
 ## 🚀 Featured Projects  
 Here are some of the projects I’m most proud of (click to explore):  
@@ -16,5 +18,5 @@ Here are some of the projects I’m most proud of (click to explore):
 - **[OOP](https://github.com/Thomaspeel6/OOP)** – Object‑oriented programming concepts in Java.  
 - **[comp1711_dog](https://github.com/Thomaspeel6/comp1711_dog)** – Procedural programming in C.  
 
-## 💋 Get in Touch  
+##  Get in Touch  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-peel-uk/) or open an issue/pull‑request on one of my repositories if you have ideas or suggestions.  I’m always excited to collaborate and learn!
