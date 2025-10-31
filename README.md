@@ -17,7 +17,8 @@ To help recruiters connect my GitHub repositories with the projects listed on my
 - **Auction Website** ([python‑group‑project](https://github.com/Thomaspeel6/python-group-project)) – Led a small team to build a secure auction system with real‑time bidding. Oversaw GitHub‑based collaboration, task tracking and version control.
 - **xv6 Shell Interface** ([shell‑scripting‑automation](https://github.com/Thomaspeel6/shell-scripting-automation)) – Created a Unix‑like shell interface in xv6 to execute system commands and manage processes, strengthening understanding of OS internals and C programming.
 - **Intro to Python Programming** ([intro‑to‑python‑programming](https://github.com/Thomaspeel6/intro-to-python-programming)) – A collection of beginner‑friendly Python exercises and examples to build foundational programming skills.
-- **Java OOP Examples** ([java‑oop‑examples](https://github.com/Thomaspeel6/java-oop-examples)) – Examples and mini‑projects demonstrating object‑oriented programming principles in Java.
+- **Java OOP Examples** ([java‑oop‑examples](https://github.com/Thomaspeel6/java-oop-examples)) – Examples and mini‑projects demonstrating object‑orien
+- **Blockchain: Smallholder Insurance DAO** (link coming soon) – Built a decentralized insurance prototype on Polygon to support smallholder farmers; implemented governance features for claim review and treasury management; and designed a user-friendly front-end for non-technical participants.ted programming principles in Java.
 - **C Procedural Dog App** ([c‑procedural‑dog‑app](https://github.com/Thomaspeel6/c-procedural-dog-app)) – A simple C project illustrating procedural programming concepts via a pet‑themed application.
 
 ## 📫 Get in Touch
