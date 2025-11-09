@@ -3,11 +3,11 @@
 I’m a motivated and adaptable computer‑science student with international experience and a strong background in software development, problem‑solving and leadership. I enjoy building scalable, user‑focused applications and I’m particularly experienced with Python, Flask and full‑stack web development. I’m passionate about leveraging technology to solve real‑world challenges while continuously developing my technical, analytical and communication skills.
 
 ## 🧰 Tech Stack
-- **Languages:** Python, Java, C, Shell, HTML, CSS, TypeScript
-- **Frameworks & Tools:** Flask, Bootstrap, SQLAlchemy, jQuery, Git/GitHub, SQL, VS Code
-- **Web Development:** Full‑stack development (frontend & backend), RESTful APIs, responsive design, WCAG‑compliant accessibility
-- **Other Technologies:** JSON, AJAX, Moment.js, Bootstrap‑Datetimepicker, virtual environments (venv)
-- **Interests:** Building user‑friendly and secure web apps, collaborating on group projects, exploring new technologies, and improving software performance
+- **Languages:** Python, Java, C, Go, TypeScript, JavaScript, HTML, CSS, Shell  
+- **Frameworks & Tools:** Flask, React, Bootstrap, SQLAlchemy, Docker, Git/GitHub, Heroku, VS Code, Jira, Trello  
+- **Web Development:** Full-stack development (frontend & backend), RESTful APIs, authentication systems, responsive and accessible UI (WCAG-compliant), deployment pipelines  
+- **Other Technologies:** JSON, AJAX, Stripe API, Moment.js, Bootstrap-Datetimepicker, virtual environments (venv), testing frameworks (Pytest, unittest)  
+- **Interests:** Scalable system design, open-source collaboration, building secure and user-focused web apps, and continuous improvement through feedback and testing
 
 ## 🚀 Featured Projects
 To help recruiters connect my GitHub repositories with the projects listed on my CV, here are some highlights (click to explore):
