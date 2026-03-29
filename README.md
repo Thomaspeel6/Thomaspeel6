@@ -1,25 +1,52 @@
-# Hi, I’m Thomas 👋
+# Hi, I'm Thomas 👋
 
-I’m a motivated and adaptable computer‑science student with international experience and a strong background in software development, problem‑solving and leadership. I enjoy building scalable, user‑focused applications and I’m particularly experienced with Python, Flask and full‑stack web development. I’m passionate about leveraging technology to solve real‑world challenges while continuously developing my technical, analytical and communication skills.
+I'm a motivated and adaptable computer-science graduate with international experience and a strong background in software development, problem-solving and leadership. Currently working at **Moveo.ai** where I build AI-powered intelligence systems, internal platforms and sales enablement tools. I enjoy building scalable, user-focused applications and I'm passionate about leveraging technology to solve real-world challenges.
 
 ## 🧰 Tech Stack
-- **Languages:** Python, Java, C, Go, TypeScript, JavaScript, HTML, CSS, Shell  
-- **Frameworks & Tools:** Flask, React, Bootstrap, SQLAlchemy, Docker, Git/GitHub, Heroku, VS Code, Jira, Trello  
-- **Web Development:** Full-stack development (frontend & backend), RESTful APIs, authentication systems, responsive and accessible UI (WCAG-compliant), deployment pipelines  
-- **Other Technologies:** JSON, AJAX, Stripe API, Moment.js, Bootstrap-Datetimepicker, virtual environments (venv), testing frameworks (Pytest, unittest)  
-- **Interests:** Scalable system design, open-source collaboration, building secure and user-focused web apps, and continuous improvement through feedback and testing
+- **Languages:** Python, TypeScript, JavaScript, Java, C, Go, HTML, CSS, Shell
+- **Backend:** FastAPI, Flask, Next.js, Node.js, SQLAlchemy, Drizzle ORM
+- **Frontend:** React, Vite, Tailwind CSS, shadcn/ui, Bootstrap
+- **AI/ML:** Anthropic Claude API, OpenRouter, LLM prompt engineering, structured output pipelines
+- **Databases:** PostgreSQL, Supabase, SQLite, Redis
+- **Cloud & DevOps:** Google Cloud Run, Cloud Tasks, Vercel, Docker, GitHub Actions
+- **Integrations:** HubSpot CRM, Google Drive API, Slack API, Notion API, Stripe API, Google Apps Script
+- **Testing & Quality:** pytest, Ruff, OWASP security hardening, Zod validation
+- **Other:** MCP servers, Claude Code skills/plugins, FireCrawl, jsPDF
 
-## 🚀 Featured Projects
-To help recruiters connect my GitHub repositories with the projects listed on my CV, here are some highlights (click to explore):
+## 💼 Moveo.ai — What I've Built
 
-- **Apprenta – Digital Apprenticeship Platform** ([apprenta‑apprencitce‑bridge](https://github.com/Thomaspeel6/apprenta-apprencitce-bridge)) – Co‑developed a data-driven platform connecting apprentices, tradespeople and institutions through verified job matching and analytics. Built scalable APIs and responsive UI components using Python, JavaScript and Bootstrap; designed data pipelines for apprenticeship verification and dashboards; and helped define the technical roadmap and business model in a multidisciplinary team.
-- **Travel Experience Sharing Platform** ([frontend‑web‑app](https://github.com/Thomaspeel6/frontend-web-app)) – Full‑stack Flask web app for sharing travel experiences with image uploads and user profiles. Implemented authentication, responsive Bootstrap UI and Heroku deployment.
-- **Auction Website** ([python‑group‑project](https://github.com/Thomaspeel6/python-group-project)) – Led a small team to build a secure auction system with real‑time bidding. Oversaw GitHub‑based collaboration, task tracking and version control.
-- **xv6 Shell Interface** ([shell‑scripting‑automation](https://github.com/Thomaspeel6/shell-scripting-automation)) – Created a Unix‑like shell interface in xv6 to execute system commands and manage processes, strengthening understanding of OS internals and C programming.
-- **Intro to Python Programming** ([intro‑to‑python‑programming](https://github.com/Thomaspeel6/intro-to-python-programming)) – A collection of beginner‑friendly Python exercises and examples to build foundational programming skills.
-- **Java OOP Examples** ([java‑oop‑examples](https://github.com/Thomaspeel6/java-oop-examples)) – Examples and mini‑projects demonstrating object‑orien
-- **Blockchain: Smallholder Insurance DAO** (link coming soon) – Built a decentralized insurance prototype on Polygon to support smallholder insurance groups; implemented governance features for claim review and treasury management; and designed a user-friendly front-end for non-technical participants.ted programming principles in Java.
-- **C Procedural Dog App** ([c‑procedural‑dog‑app](https://github.com/Thomaspeel6/c-procedural-dog-app)) – A simple C project illustrating procedural programming concepts via a pet‑themed application.
+### Competitive Intelligence
+- **Battlecards v2** — Automated system monitoring 22+ competitors weekly with AI-powered analysis, change detection, scoring, and Slack alerts. Production on GCP with Cloud Scheduler.
+- **Battlecards v1** — Original competitive monitoring system with Notion integration (superseded by v2).
+
+### AI-Powered Analysis
+- **Meeting Intelligence Engine** — End-to-end pipeline: ingests Google Meet transcripts from Drive, enriches with CRM/battlecard context, runs Claude analysis for meeting quality, ICP scoring, competitive intel and next-best-actions. Delivers via Slack and REST API.
+- **Data Hunt** — Executive intelligence research pipeline with two-pass LLM architecture, evidence-locked Intel Cards, identity verification and trust-tier prioritization. 59 tests across 11 files.
+- **Scrapper** — Company profiling system combining deterministic rules with LLM analysis for payment portal detection, industry classification, chatbot detection and market intelligence. Production on Cloud Run.
+
+### Sales Enablement
+- **ROI Calculator** — Interactive 3-year ROI projection tool for prospects with 3 use-case models (Support, Collections, Sales), scenario analysis, bilingual support (EN/PT), and branded PDF export. Embedded on moveo.ai/roi.
+- **Case Study Generator** — Generates marketing case studies in 3 formats with HubSpot autocomplete, customer-mode URLs and Google OAuth authentication.
+- **Companies Dashboard** — Company and contact browsing with V2 enrichment fields (ICP tier, industry, revenue).
+
+### Internal Platforms
+- **Tesseract** — Internal admin dashboard replacing GitHub Actions with a web UI. Account management, spam blocking, billing, audit logs, AI usage insights, Slack notifications and RBAC with 5 roles. Built with Next.js 16, React 19, Auth.js and PostgreSQL.
+- **Marketing Tesseract** — Backend analytics pipeline powering Pipeline X-Ray and Brazil Marketing dashboards with HubSpot CRM integration.
+
+### Developer Tools
+- **Skills Library** — Web app for browsing, uploading, reviewing and distributing Claude Code skills with multi-file storage, AI review scoring and auto-PR creation on GitHub.
+- **Claude Plugins Marketplace** — Shared plugin distribution system for Moveo.ai teams, organized by category with MCP server support.
+
+## 🚀 Personal & University Projects
+
+- **Apprenta – Digital Apprenticeship Platform** ([apprenta-apprencitce-bridge](https://github.com/Thomaspeel6/apprenta-apprencitce-bridge)) — Co-developed a data-driven platform connecting apprentices, tradespeople and institutions through verified job matching and analytics.
+- **Travel Experience Sharing Platform** ([frontend-web-app](https://github.com/Thomaspeel6/frontend-web-app)) — Full-stack Flask web app for sharing travel experiences with image uploads, authentication and Heroku deployment.
+- **Auction Website** ([python-group-project](https://github.com/Thomaspeel6/python-group-project)) — Led a team to build a secure auction system with real-time bidding and GitHub-based collaboration.
+- **xv6 Shell Interface** ([shell-scripting-automation](https://github.com/Thomaspeel6/shell-scripting-automation)) — Unix-like shell interface in xv6 for executing system commands and managing processes.
+- **Blockchain: Smallholder Insurance DAO** — Decentralized insurance prototype on Polygon with governance features for claim review and treasury management.
+- **Intro to Python Programming** ([intro-to-python-programming](https://github.com/Thomaspeel6/intro-to-python-programming)) — Beginner-friendly Python exercises and examples.
+- **Java OOP Examples** ([java-oop-examples](https://github.com/Thomaspeel6/java-oop-examples)) — Examples and mini-projects demonstrating object-oriented programming principles in Java.
+- **C Procedural Dog App** ([c-procedural-dog-app](https://github.com/Thomaspeel6/c-procedural-dog-app)) — Simple C project illustrating procedural programming concepts.
 
 ## 📫 Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-peel-uk/) or open an issue/pull request on one of my repositories if you have ideas or suggestions. I’m always excited to collaborate and learn!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/thomas-peel-uk/) or open an issue/pull request on one of my repositories if you have ideas or suggestions. I'm always excited to collaborate and learn!
