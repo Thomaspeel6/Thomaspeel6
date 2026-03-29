@@ -30,8 +30,7 @@ I'm a motivated and adaptable computer-science graduate with international exper
 - **Companies Dashboard** — Company and contact browsing with V2 enrichment fields (ICP tier, industry, revenue).
 
 ### Internal Platforms
-- **Tesseract** — Internal admin dashboard replacing GitHub Actions with a web UI. Account management, spam blocking, billing, audit logs, AI usage insights, Slack notifications and RBAC with 5 roles. Built with Next.js 16, React 19, Auth.js and PostgreSQL.
-- **Marketing Tesseract** — Backend analytics pipeline powering Pipeline X-Ray and Brazil Marketing dashboards with HubSpot CRM integration.
+- **Marketing Tesseract** — Backend analytics pipeline powering Pipeline X-Ray and Brazil Marketing dashboards within Moveo's internal Tesseract platform. Built with Python, FastAPI, PostgreSQL and HubSpot CRM integration.
 
 ### Developer Tools
 - **Skills Library** — Web app for browsing, uploading, reviewing and distributing Claude Code skills with multi-file storage, AI review scoring and auto-PR creation on GitHub.
